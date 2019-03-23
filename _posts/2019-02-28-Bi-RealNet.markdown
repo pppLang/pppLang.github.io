@@ -36,11 +36,11 @@ motivation与其他网络压缩、量化的paper类似，无外乎对硬件的�
 
 1-bit CNNs最大的好处就在于之前计算复杂度高的矩阵乘法被大大的简化了，原理见下图：
 
-![avatar](./Bi-RealNet/fig2.PNG)
+![avatar](https://github.com/pppLang/pppLang.github.io/blob/master/_posts/Bi-RealNet/fig2.PNG)
 
 作者定义了网络的表达容量——$\R(x)$。标准的1-bit CNN表达容量如图所示：
 
-![avatar](./Bi-RealNet/fig3.PNG)
+![avatar](https://github.com/pppLang/pppLang.github.io/blob/master/_posts/Bi-RealNet/fig2.PNG)
 
 ## Bi-Real Net
 
